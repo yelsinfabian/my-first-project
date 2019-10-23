@@ -1,0 +1,3 @@
+# labradores
+- Android estudio
+- SDK oreo
